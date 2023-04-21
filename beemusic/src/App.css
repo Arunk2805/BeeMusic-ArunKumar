@@ -1,0 +1,64 @@
+.logo{
+margin-top: 20px;
+margin-left: 20px;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.logo1{
+  color: rgba(201, 163, 10, 0.968);
+}
+
+
+
+.home{
+  display: flex;
+  flex-direction: column;
+  
+}
+.home a{
+ 
+  padding: 8px 30px ;
+  text-decoration: none;
+  color: rgba(182, 19, 241, 0.977);
+  font-size: 16px;
+  font-weight: 400;
+}
+.home a:hover {
+background-color: black;
+color: white;
+transition: 0.3s ease-in-out;
+border-radius: 10px;
+}
+.home1{
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+}
+.leftSide{
+  /* margin: 10px 20px ; */
+  padding: 10px 20px;
+}
+.discover{
+  margin-top: 5px ;
+  padding-left: 30px;
+  font-size: 12px;
+  font-weight: lighter;
+}
+.btn1{
+   padding: 7px 0;
+   font-size: 14px;
+   font-weight: 500;
+}
+.profile{
+  position: relative;
+  left: 5rem;
+  top:0.9rem;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.hmsize{
+  font-size: 25px;
+}
+.hmsize1{
+  font-size: 20px;
+}
